@@ -1,0 +1,74 @@
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  img{
+      border-radius: 6em;
+   }
+
+  footer {
+    margin: 15em 0 2em 0;
+    text-align: right;
+
+  }
+body{
+    background-image: url("pic2.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+iframe{
+    margin: 2em 0 0 10em;
+}
+section,aside,#contactlinks,.back-colo{
+    border-radius: 2em;
+    color: rgb(185, 185, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 1em;
+    margin: 4em 2em 0 2em;
+    font-display: block;
+    background-color: black;
+    opacity: 0.8;
+}
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 30px;
+text-align: center;
+text-decoration: none;
+border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+table {
+width:100%;
+}
+table, th, td {
+border: 0.5em solid rgb(163, 108, 108);
+border-collapse: collapse;
+}
+th, td {
+padding: 1em;
+text-align: center;
+}
+th{
+  text-decoration: underline;
+}
+#form_login {
+    margin: auto 30em auto 30em;
+}
+header{
+  text-align: center;
+}
+#calculate,.all,#out{
+  color: rgb(7, 7, 10);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+}
