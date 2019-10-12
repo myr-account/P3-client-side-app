@@ -1,5 +1,4 @@
 # P3-client-side-app
-# About-myself
 * The first page is "index" where you can find all the info about my present,past and future
 * The second page is regarding contact
 * There is another page called "calculation" to find whether a number is palindrome or not.
